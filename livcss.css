@@ -1,0 +1,59 @@
+/*.container{
+height: 180px;
+width: 130px;
+}
+
+.img{
+background-image:url(stephen/end.jpeg);
+display: block;
+width: 100%;
+height: auto;
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+.depois{
+opacity: 0;
+background-image:none;
+background-color: red;
+}
+
+
+.container:hover .depois{
+opacity: 1;
+}*/
+
+
+.container {
+  height:180px;
+  width: 130px;
+  background-image: url("stephen/end.jpeg");
+  background-size: 100%;
+  opacity: 1;
+}
+
+.img {
+
+  width: 130px;
+  height: 180px;
+  opacity: 1;
+}
+
+.depois {
+  height: 180px;
+  width: 130px;
+  opacity: 0;
+  background-image: none;
+  background-color: #008CBA;
+
+}
+
+.container:hover .depois {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
