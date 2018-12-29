@@ -1,0 +1,35 @@
+#holepage{
+background-color:#3f3f3f;
+color: red;
+width:1450px;
+height:750px;
+}
+#topchose{
+  background-color:red;
+  color:Black;
+  font-family: arial,verdana,sans-serif
+  width:auto;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+  height:150px;
+}
+li{
+  border-bottom: 8px solid black;
+}
+list ul{
+  float:left;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+list{
+  width: auto;
+}
+
+list ul:hover{
+  background-color: #f01818;
+  border-bottom: 8px solid #c51a1a;
+}
+
+list a{
+  color: black;
+}
