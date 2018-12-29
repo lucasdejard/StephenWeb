@@ -1,11 +1,11 @@
 #holepage{
 background-color:#3f3f3f;
 color: red;
-width:1450px;
+width:100%;
 height:750px;
 }
 #topchose{
-  background-color:red;
+  background-color:#980202;
   color:Black;
   font-family: arial,verdana,sans-serif
   width:auto;
@@ -58,7 +58,7 @@ list a{
   width: 130px;
   opacity: 0;
   background-image: none;
-  background-color: #008CBA;
+  background-color: #f01818;
 
 }
 
