@@ -26,7 +26,7 @@ list{
 }
 
 list ul:hover{
-  transition:1;
+  transition:1s;
   background-color: #f01818;
   border-bottom: 8px solid #c51a1a;
 }
