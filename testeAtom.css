@@ -26,6 +26,7 @@ list{
 }
 
 list ul:hover{
+  transition:1;
   background-color: #f01818;
   border-bottom: 8px solid #c51a1a;
 }
@@ -54,6 +55,7 @@ list a{
 }
 
 .depois {
+  transition:2s;
   height: 180px;
   width: 130px;
   opacity: 0;
