@@ -11,18 +11,16 @@ height:100em;
   width:auto;
   border-top: 8px solid black;
   border-bottom: 8px solid black;
-  height:150px;
+  height:7%;
 }
 li{
   border-bottom: 8px solid black;
 }
+
 list ul{
   float:left;
-  padding-left: 200px;
-  padding-right: 200px;
-}
-list{
-  width: auto;
+  padding-left: 14.15%;
+  padding-right: 14.15%;
 }
 
 list ul:hover{
@@ -44,7 +42,7 @@ list a{
   border: 10px solid #3f3f3f;
   height:180px;
   width: 130px;
-  background-size: 130px 180px;
+  background-size: 100% 100%;
   opacity: 1;
 }
 
