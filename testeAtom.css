@@ -13,6 +13,7 @@ height:100em;
   border-bottom: 0.5em solid black;
   height:7%;
 }
+
 li{
   border-bottom: 0.5em solid black;
 }
@@ -29,7 +30,7 @@ list ul:hover{
   background: linear-gradient(to bottom,#f01818,brown);
 }
 
-llist a{
+list a{
   color: black;
   text-align: center;
 }
