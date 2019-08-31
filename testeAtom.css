@@ -59,8 +59,8 @@ list a{
 
 .depois {
   transition:2s;
-  height: 12em;
-  width: 9em;
+  height: 11em;
+  width: 8em;
   opacity: 0;
   background-image: none;
   background-color: #f01818;
