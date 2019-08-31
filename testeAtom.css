@@ -1,9 +1,14 @@
+* {
+  box-sizing:border-box
+}
+   
 #holepage{
 background-color:#3f3f3f;
 color: red;
 width:100%;
 height:100em;
 }
+  
 #topchose{
   background-color:#980202;
   color:Black;
