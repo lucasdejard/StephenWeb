@@ -20,14 +20,15 @@ li{
 
 list ul{
   float: left;
-  width:100%;
+  width:97.8%;
   height: 1.5em;
   margin: 1px;
 }
 
 list ul:hover{
-  transition:1s;
+  transition:1.5s;
   background: linear-gradient(to bottom,#f01818,brown);
+  width:90%;
 }
 
 list a{
@@ -36,12 +37,11 @@ list a{
 }
 
 /* containers */
-
 .container {
   float: left;
   border: 0.5em solid #3f3f3f;
-  height:13em;
-  width: 10em;
+  height:12em;
+  width: 9em;
   background-size: 100% 100%;
   opacity: 1;
 }
@@ -54,8 +54,8 @@ list a{
 
 .depois {
   transition:2s;
-  height: 13em;
-  width: 10em;
+  height: 12em;
+  width: 9em;
   opacity: 0;
   background-image: none;
   background-color: #f01818;
